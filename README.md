@@ -5,8 +5,8 @@
 --!>
 
 
-- 🔭 I’m currently working on Xi`An buttfly
-- 🌱 I’m currently useing Python and Leraning Go
-- 📫 How to reach me: iamjing66@163.com
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+* 🔭 I’m currently working on Xi`An buttfly
+* 🌱 I’m currently useing Python and Leraning Go
+* 📫 How to reach me: iamjing66@163.com
+* 😄 Pronouns: ...
+* ⚡ Fun fact: ...
