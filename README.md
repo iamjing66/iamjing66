@@ -4,13 +4,13 @@
 </p>
 
 
-- 🔭 I’m currently working on Xi`An buttfly 
-- 🌱 I’m currently useing Python and Leraning Go
+- 🔭 I’m currently working on Xi`An butterfly 
+- 🌱 I’m currently using Python and Learning Go
 - 📫 How to reach me: iamjing66@163.com
 
 ====================================        
 - 
-- **my github`s stats**
+- **my GitHub`s stats**
 
 
 ![iamjing66's GitHub stats](https://github-readme-stats.vercel.app/api?username=iamjing66&count_private=true)
@@ -25,6 +25,7 @@
 Python   2 hrs 57 mins   ███████████████████████░░   92.45 % 
 INI      14 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   07.51 % 
 ```
+
 
 
 <!--END_SECTION:waka-->
