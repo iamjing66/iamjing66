@@ -5,7 +5,7 @@
 
 
 - 🔭 I’m currently working on Xi`An butterfly 
-- 🌱 I’m currently using Python and Learning Go
+- 🌱 I’m currently using Python and learning Go
 - 📫 How to reach me: iamjing66@163.com
 
 ====================================        
