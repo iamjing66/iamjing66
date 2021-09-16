@@ -32,6 +32,9 @@
 
 <!--START_SECTION:waka-->
 ```text
-No Activity tracked this Week
+Python     5 hrs 6 mins    ███████████████████████░░   91.88 % 
+INI        14 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   04.31 % 
+SQL        11 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.36 % 
+Markdown   1 min           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.36 % 
 ```
 <!--END_SECTION:waka-->
