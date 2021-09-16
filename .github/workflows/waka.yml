@@ -1,13 +1,16 @@
-name: Update gist with WakaTime stats
+name: Update README with waka
 on:
+  push:
+    branches:
+      - master
+  workflow_dispatch:
   schedule:
-    - cron: "30 * * * *"
+    - cron: '30 * * * *'
 jobs:
-  update-gist:
+  update-readme:
+    name: Update this repo's README
     runs-on: ubuntu-latest
     steps:
-      - uses: actions/checkout@master
-      - name: Update readme
-        uses: athul/waka-readme@master
-        env:
+      - uses: athul/waka-readme@master
+        with:
           WAKATIME_API_KEY: ${{ secrets.WAKATIME_API_KEY }}
