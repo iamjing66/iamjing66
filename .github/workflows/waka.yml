@@ -5,7 +5,7 @@ on:
       - master
   workflow_dispatch:
   schedule:
-    - cron: '30 * * * *'
+    - cron: '30 0 * * *'
 jobs:
   update-readme:
     name: Update this repo's README
