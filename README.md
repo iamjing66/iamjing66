@@ -1,6 +1,7 @@
 <h2 align="center">👋 Hello!</h2>
 <p align="center">
-  <a href="https://twitter.com/iamjing66">Twitter</a>
+    <a href="https://iamjing66.github.io/">GithubPage</a> |
+    <a href="https://twitter.com/iamjing66">Twitter</a>
 </p>
 
 
