@@ -24,7 +24,8 @@
 - **my GitHub`s stats**
 
 
-![iamjing66's GitHub stats](https://github-readme-stats.vercel.app/api?username=iamjing66&count_private=true)
+![iamjing66's GitHub stats](https://github-readme-stats.vercel.app/api?username=iamjing66&count_private=true&show_icons=true&locale=cn&theme=tokyonight)
+[![My Most used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=iamjing66&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 
 ====================================        
