@@ -26,7 +26,7 @@
 
 ![iamjing66's GitHub stats](https://github-readme-stats.vercel.app/api?username=iamjing66&count_private=true&show_icons=true&locale=cn&theme=tokyonight)
 [![My Most used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=iamjing66&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
-[![vister numbers]https://gv.halberd.cn/iamjing66?theme=stroke-fill&active=3200ff&deactive=f1f1f1&len=3&speed=40&size=40&space=5&tail=1
+[![vister numbers](https://gv.halberd.cn/iamjing66?theme=stroke-fill&active=3200ff&deactive=f1f1f1&len=3&speed=40&size=40&space=5&tail=1)
 
 
 ====================================        
