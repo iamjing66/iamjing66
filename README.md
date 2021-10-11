@@ -31,7 +31,7 @@
 -
 - **visitors**      
 
-[visitors](https://gv.halberd.cn/iamjing66?theme=stroke-fill&active=3200ff&deactive=f1f1f1&len=3&speed=40&size=40&space=5&tail=1)
+![visitors](https://gv.halberd.cn/iamjing66?theme=stroke-fill&active=3200ff&deactive=f1f1f1&len=3&speed=40&size=40&space=5&tail=1)
 
 
 ====================================        
