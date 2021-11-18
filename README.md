@@ -40,7 +40,7 @@
 
 <!--START_SECTION:waka-->
 ```text
-Python   9 hrs 34 mins   ███████████████████▒░░░░░   76.76 % 
-SQL      2 hrs 54 mins   █████▓░░░░░░░░░░░░░░░░░░░   23.24 % 
+Python   8 hrs 19 mins   █████████████████░░░░░░░░   68.52 % 
+SQL      3 hrs 49 mins   ████████░░░░░░░░░░░░░░░░░   31.47 % 
 ```
 <!--END_SECTION:waka-->
