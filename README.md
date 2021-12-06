@@ -34,6 +34,12 @@
 ![visitors](https://gv.halberd.cn/iamjing66?theme=stroke-fill&active=3200ff&deactive=f1f1f1&len=3&speed=40&size=40&space=5&tail=1)
 
 
+====================================
+- 
+- **project info**
+
+![Alt](https://repobeats.axiom.co/api/embed/df82110fbdb9d4cb0b3df4b249b1487ef748b484.svg "Repobeats analytics image")
+
 ====================================        
 -
 📊 **Daily development breakdown**       
