@@ -46,10 +46,10 @@
 
 <!--START_SECTION:waka-->
 ```text
-Python             13 hrs 58 mins  ████████████████████▓░░░░   83.20 % 
-SQL                2 hrs 29 mins   ███▓░░░░░░░░░░░░░░░░░░░░░   14.81 % 
-JavaScript         11 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.14 % 
-requirements.txt   4 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.46 % 
-GitIgnore file     2 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.24 % 
+Python             9 hrs 53 mins   ██████████████████████▓░░   90.74 % 
+SQL                40 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   06.19 % 
+JavaScript         11 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.76 % 
+requirements.txt   4 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.71 % 
+GitIgnore file     2 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.37 % 
 ```
 <!--END_SECTION:waka-->
