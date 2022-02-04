@@ -46,10 +46,6 @@
 
 <!--START_SECTION:waka-->
 ```text
-Python       3 hrs 7 mins    █████████████████▓░░░░░░░   70.82 % 
-SQL          42 mins         ████░░░░░░░░░░░░░░░░░░░░░   16.03 % 
-Markdown     27 mins         ██▓░░░░░░░░░░░░░░░░░░░░░░   10.34 % 
-Text         3 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.19 % 
-Git Config   2 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.95 % 
+No Activity tracked this Week
 ```
 <!--END_SECTION:waka-->
