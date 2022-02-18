@@ -46,10 +46,6 @@
 
 <!--START_SECTION:waka-->
 ```text
-Total: 1 hr 14 mins
-
-Python     38 mins         ████████████▓░░░░░░░░░░░░   50.93 % 
-Markdown   35 mins         ███████████▓░░░░░░░░░░░░░   47.17 % 
-SQL        1 min           ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.90 % 
+No Activity tracked this Week
 ```
 <!--END_SECTION:waka-->
